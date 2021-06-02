@@ -3,7 +3,7 @@ A smart dustbin who automatically segregate dry and wet garbage and notify autho
 Features:
 1. It has IR and moisture sensor for detecting garbage and its type.
 2. It contains  LCD for displaying current status and type of garbage to local people.
-3. It contains Ultrasonic sensor(2) to check the level or garbage in the dustbin.
+3. It contains Ultrasonic sensor(2) to check the level of garbage in the dustbin.
 4. It contains ServoMotor for flipping garbage in wet/dry dustbin. 
 5. It contains Wifi Module NodeMCU ESP8266 for sending notifications when a dustbin gets full. 
 6. It is also linked with the Blynk app.
