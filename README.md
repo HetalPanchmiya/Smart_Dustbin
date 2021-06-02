@@ -1,5 +1,5 @@
 # Smart_Dustbin
-A smart dustbin who automatic segregate dry and wet garbage and notify authority when the dustbin is full. 
+A smart dustbin who automatically segregate dry and wet garbage and notify authority when the dustbin is full. 
 Features:
 1. It has IR and moisture sensor for detecting garbage and its type.
 2. It contains  LCD for displaying current status and type of garbage to local people.
